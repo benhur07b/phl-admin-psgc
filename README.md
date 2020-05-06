@@ -1,24 +1,15 @@
 # PHL ADMIN PGSC
 A repository for holding Philippine Administrative Boundary vector files. With PSGC (Philippine Standard Geographic Code), when applicable.
 
+Names are based on PSA Dec 2019 PSGC Publication.
+
 ## List
-* *phl_provinces_ncr_psgc* - Philippine Provinces and NCR
+* *phl_regions* - Regions in the Philippines
+* *phl_provinces_ncr-districts_icc* - Provinces, NCR Districts (1-4), and Independent Component Cities (Isabela City, Cotabato City) in the Philippines
+* *phl_municities* - Cities and Municipalities in the Philippines
 
-* *phl_provinces_ncr_independent-cities_psgc* - Philippine Provinces, NCR, and Independent Cities (Isabela City and Cotabato City)
+![Creative Commons License BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png')
 
-* *phl_ncr_municities_psgc* - Cities and Municipalities of the National Capital Region
+This work is licensed under a <a rel='license' href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br>
 
-## CHANGELOG
-### 2020-04-15
-**phl_provinces_ncr**
-* renamed some provinces to reflect the names based on PSGC Publication Dec2019 of the PSA
-* renamed Samar to Samar (Western Samar)
-* renamed Davao de Oro to Davao de Oro (Compostela Valley)
-* renamed North Cotabato to Cotabato (North Cotabato)
-
-**phl_provinces_ncr_independet-cities**
-* renamed some provinces to reflect the names based on PSGC Publication Dec2019 of the PSA
-* renamed Samar to Samar (Western Samar)
-* renamed Davao de Oro to Davao de Oro (Compostela Valley)
-* renamed North Cotabato to Cotabato (North Cotabato)
-
+Based on [GADM](https://gadm.org/data.html) and subject as well to their [license](https://gadm.org/license.html)
