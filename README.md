@@ -10,6 +10,6 @@ Names are based on PSA Dec 2019 PSGC Publication.
 
 ![Creative Commons License BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
 
-This work is licensed under a <a rel='license' href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br>
+This work is licensed under a <a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br>
 
 Based on [GADM](https://gadm.org/data.html) and subject as well to their [license](https://gadm.org/license.html)
